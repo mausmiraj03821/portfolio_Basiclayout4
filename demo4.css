@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+}
+
+.border {
+    border-top: 1px solid#8080808a;
+    border-bottom: 1px solid#8080808a;
+    padding: 15px;
+}
+
+.textcolororange {
+    color: orange;
+}
+
+.borderbottom {
+    border-bottom: 1px solid#8080808a;
+}
+
+.libbottom {
+    border-bottom: 1px dotted;
+}
+
+.pb {
+    padding-bottom: 10px;
+    color: #8080808a;
+}
+
+.mt {
+    margin: 20px 20px;
+}
+
+.mtp {
+    margin-top: 20px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.ml {
+    margin-left: -20px;
+}
+
+.box-2 {
+    margin-top: -20px;
+}
+
+.box-3 {
+    width: 940px;
+}
+
+.box-4 {
+    width: 940px;
+    justify-content: space-around;
+}
+
+.box-5 {
+    width: 656px;
+}
+
+.box-6 {
+    width: 265px;
+}
+
+.innerbox-1 {
+    width: 300px;
+    margin-right: 13px;
+}
+
+.textcolor {
+    color: #8080809e;
+}
+
+.container {
+    width: 940px;
+    margin: auto;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+ul {
+    margin-top: -32px;
+}
+
+.dinline {
+    display: inline;
+    list-style-type: none;
+}
+
+.ptb {
+    padding: 20px 20px;
+}
+
+.ptb2 {
+    list-style-type: none;
+}
+
+hr {
+    width: 50%;
+}
+
+.fright {
+    float: right;
+}
+
+.fleft {
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
+.fline {
+    border-top: 1px solid #80808094;
+    padding: 20px 0px;
+}
+
+.imgp {
+    padding: 20px 20px;
+}
